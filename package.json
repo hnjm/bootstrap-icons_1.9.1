@@ -40,7 +40,7 @@
   "sass": "font/bootstrap-icons.scss",
   "devDependencies": {
     "autoprefixer": "^10.4.12",
-    "bootstrap": "5.2.2",
+    "bootstrap": "5.2.3",
     "cross-env": "^7.0.3",
     "eslint": "^8.26.0",
     "fantasticon": "^1.2.3",
